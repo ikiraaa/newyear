@@ -7,8 +7,9 @@
 - `index.html` - Главная страница
 - `recipes.html` - Страница с рецептами
 - `tips.html` - Страница с советами
-- `style.css` - Стили сайта
-- `script.js` - JavaScript код
+- `css/style.css` - Стили сайта
+- `js/script.js` - JavaScript код
+- `images/` - Папка с изображениями
 
 ## Использование
 
